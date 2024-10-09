@@ -45,7 +45,7 @@ With a passion for building scalable and efficient web applications, I specializ
 ## 🔗 Find me on:
 
 - 🌐 [My Weblancer Profile](https://www.weblancer.net/users/Ruslaan1)
-- 📧 [Email me](mailto:rusiklendel@gmail.com)
+- 📧 [Email me](mailto:rusiklendel@proton.me)
 
 ---
 
