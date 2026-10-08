@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 590 170" width="590" height="170" role="img" aria-label="portfolio.fairstack.dev">
+<defs><linearGradient id="b" x1="0" x2="1" y1="0" y2="1"><stop offset="0" stop-color="#c05bff"/><stop offset="0.5" stop-color="#2b3bd6"/><stop offset="1" stop-color="#c05bff"/></linearGradient>
+<radialGradient id="g" cx="50%" cy="50%" r="50%"><stop offset="0" stop-color="#c05bff" stop-opacity="0.35"/><stop offset="1" stop-color="#c05bff" stop-opacity="0"/></radialGradient>
+<clipPath id="r"><rect x="1" y="1" width="588" height="168" rx="21"/></clipPath></defs>
+<g clip-path="url(#r)"><rect width="590" height="170" fill="#0e0e11"/>
+<circle cx="500" cy="150" r="160" fill="url(#g)"><animate attributeName="cx" values="500;380;540;500" dur="11s" repeatCount="indefinite"/></circle></g>
+<rect x="1.5" y="1.5" width="587" height="167" rx="21" fill="none" stroke="#f2f2ee" stroke-opacity="0.14"/>
+<rect x="1.5" y="1.5" width="587" height="167" rx="21" fill="none" stroke="url(#b)" stroke-width="2" stroke-dasharray="220 1280" stroke-linecap="round"><animate attributeName="stroke-dashoffset" from="0" to="-1500" dur="5s" repeatCount="indefinite"/></rect>
+<text x="34" y="48" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,monospace" font-size="12" letter-spacing="2.5" fill="#c05bff">PORTFOLIO</text>
+<text x="32" y="98" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="38" font-weight="800" letter-spacing="-1.5" fill="#f2f2ee">portfolio.fairstack.dev</text>
+<text x="34" y="134" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="15" fill="#f2f2ee" fill-opacity="0.6">Cinematic 3D sites with working tools · 12 languages</text>
+<g fill="none" stroke="#f2f2ee" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"><path d="M520 62 548 34M528 34h20v20"/><animateTransform attributeName="transform" type="translate" values="0 0;5 -5;0 0" dur="1.8s" repeatCount="indefinite"/></g>
+</svg>

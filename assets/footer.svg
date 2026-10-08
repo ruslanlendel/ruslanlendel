@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 70" width="1200" height="70" role="img" aria-label="Let's build something">
+<defs><linearGradient id="l" x1="0" x2="1"><stop offset="0" stop-color="#c05bff" stop-opacity="0"/><stop offset="0.5" stop-color="#c05bff"/><stop offset="1" stop-color="#c05bff" stop-opacity="0"/></linearGradient></defs>
+<rect x="0" y="12" width="1200" height="1.5" fill="#f2f2ee" fill-opacity="0.12"/>
+<rect x="-300" y="11" width="300" height="3.5" rx="2" fill="url(#l)"><animate attributeName="x" values="-300;1200" dur="4.5s" repeatCount="indefinite"/></rect>
+<text x="600" y="52" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,monospace" font-size="13" letter-spacing="3" fill="#8b8b93">LET’S BUILD SOMETHING WORTH SCROLLING</text>
+</svg>
