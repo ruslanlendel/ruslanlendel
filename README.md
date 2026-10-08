@@ -1,5 +1,5 @@
 <a href="https://portfolio.fairstack.dev">
-  <img src="./assets/header.svg" width="100%" alt="Ruslan — full-stack developer. Backend engineer: PHP, Laravel, Symfony. Creative frontend: Three.js, WebGL, motion.">
+  <img src="./assets/header.svg?v=1" width="100%" alt="Ruslan — full-stack developer. Backend engineer: PHP, Laravel, Symfony. Creative frontend: Three.js, WebGL, motion.">
 </a>
 
 <br>
