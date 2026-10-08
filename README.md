@@ -1,49 +1,60 @@
-# 👋 Hi, I'm Ruslan! 
+<a href="https://portfolio.fairstack.dev">
+  <img src="./assets/header.svg" width="100%" alt="Ruslan — full-stack developer. Backend engineer: PHP, Laravel, Symfony. Creative frontend: Three.js, WebGL, motion.">
+</a>
 
-🚀 **PHP Backend Developer** from Ukraine 🇺🇦
+<br>
 
-With a passion for building scalable and efficient web applications, I specialize in PHP development using **Laravel**, but my skill set extends far beyond just that. Whether it's creating dynamic web applications or architecting robust backend systems, I thrive on solving complex problems with clean, maintainable code.
+I'm Ruslan, a developer from Ukraine 🇺🇦. I design backends that stay fast and maintainable as they grow, mostly on **Laravel**, and I build frontends people remember: real-time 3D, scroll-driven motion, and interfaces where every button does something.
 
----
+<p align="center">
+  <a href="https://portfolio.fairstack.dev"><img src="./assets/card-portfolio.svg" width="49%" alt="portfolio.fairstack.dev — cinematic 3D sites with working tools"></a>
+  <a href="https://fairstack.dev"><img src="./assets/card-fairstack.svg" width="49%" alt="fairstack.dev — web development, backend to pixel"></a>
+</p>
 
-## 🛠️ My Tech Stack
+## Selected work
 
-### 💻 Programming Languages:
-- **PHP**
-- **Python**
-- **JavaScript**
+Three concept sites, all rendered live in the browser. No video, no templates. Click a preview to open it.
 
-### ⚡ Runtime Environment:
-- **Node.js**
+<table>
+  <tr>
+    <td width="33%" valign="top">
+      <a href="https://portfolio.fairstack.dev/audi-sport/"><img src="./assets/audi.gif" width="100%" alt="Audi e-tron GT scroll film"></a>
+      <br><b>Audi e-tron GT</b>
+      <br><sub>One continuous 3D shot driven by scroll. The car comes apart panel by panel and changes paint mid-frame. Working configurator with a shareable build link.</sub>
+    </td>
+    <td width="33%" valign="top">
+      <a href="https://portfolio.fairstack.dev/clavder-watch/"><img src="./assets/watch.gif" width="100%" alt="Clavder Octa watch site"></a>
+      <br><b>Clavder Octa</b>
+      <br><sub>A chronograph that shows your real time. Scroll opens the case down to a ticking escapement. Chronograph runs from 3D pushers, caseback engraving renders live.</sub>
+    </td>
+    <td width="33%" valign="top">
+      <a href="https://portfolio.fairstack.dev/sharp-and-sons/"><img src="./assets/barber.gif" width="100%" alt="Sharp &amp; Sons barbershop site"></a>
+      <br><b>Sharp &amp; Sons</b>
+      <br><sub>A straight razor slices the headline in half. Full booking flow with free slots, calendar export and a gift card generator.</sub>
+    </td>
+  </tr>
+</table>
 
-### 🗄️ Databases:
-- **MySQL**
-- **MariaDB**
-- **MongoDB**
-- **PostgreSQL**
+## Stack
 
-### 🎯 Frameworks:
-- **Laravel** (Primary stack)
-- **Symfony**
-- **React**
+<img src="./assets/stack.svg" width="100%" alt="Backend: PHP, Laravel, Symfony, Node.js, Python. Frontend: JavaScript, React, Three.js, WebGL, HTML, CSS, Bootstrap, jQuery. Data: MySQL, MariaDB, PostgreSQL, MongoDB. CMS: WordPress, OpenCart, NetCat.">
 
-### 📚 Libraries:
-- **Bootstrap**
-- **jQuery**
+## What I do
 
-### 🌐 Markup & Styling:
-- **HTML**
-- **CSS**
+| | |
+|---|---|
+| **Backend** | APIs and business logic on Laravel and Symfony, database design, integrations, performance work |
+| **Frontend** | React interfaces, Three.js / WebGL scenes, scroll-driven animation, 60 fps on real devices |
+| **Delivery** | From first schema to deployed product: architecture, code, optimisation, launch |
 
-### 🖥️ CMS Expertise:
-- **WordPress**
-- **NetCat**
-- **OpenCart**
+## Contact
 
----
+<p>
+  <a href="mailto:fairstack@proton.me"><b>fairstack@proton.me</b></a> ·
+  <a href="https://t.me/back_front_dev">Telegram</a> ·
+  <a href="https://instagram.com/fairstack.development">Instagram</a> ·
+  <a href="https://portfolio.fairstack.dev">Portfolio</a> ·
+  <a href="https://fairstack.dev">fairstack.dev</a>
+</p>
 
-- 📧 [Email me](mailto:rusiklendel@proton.me)
-
----
-
-Let's build something amazing together! 🚀
+<img src="./assets/footer.svg" width="100%" alt="Let's build something worth scrolling">
